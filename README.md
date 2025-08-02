@@ -1,5 +1,6 @@
-## Hi there 👋
+## About ME 👋
 
-- 🌱 I’m currently learning Node.js, StoryBook
-- 📫 How to reach me: mayom.orathai@gmail.com
+- 🌱 Currently learning: Node.js, StoryBook, MongoDB
+- 📚 Want to learn: PostgreSQL, Python, Java and art🎨
+- 📫 Contact me: mayom.orathai@gmail.com
 - 🌈 Hobbies: Drawing, Daydreaming, Videogames...
