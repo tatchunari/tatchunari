@@ -5,6 +5,6 @@
 - 📫 Contact me: mayom.orathai@gmail.com
 - 🌈 Hobbies: Drawing, Daydreaming, Videogames...
 
-  ## Tools learnt and used
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  ## Tools Learnt and Used
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
   
