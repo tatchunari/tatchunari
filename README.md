@@ -2,7 +2,6 @@
 
 - 🌱 Currently learning: **Node.js, MongoDB**
 - 📚 Want to learn: **PostgreSQL, Python, Java, Docker and art**🎨
-- 📫 Contact me: mayom.orathai@gmail.com
 - 🌈 Hobbies: Drawing, Daydreaming, Videogames...
 
 ## Language & Tools Learnt ⚙️
