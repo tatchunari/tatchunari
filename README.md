@@ -18,17 +18,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt=""mySQL width="30" height="30"/>
 </p>          
 
-## ⚡️ Stats
-
-<br>
-
-<div align="left">
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=tatchunari&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Tatchunari's Most Used Languages" />
-</div>
-
-<hr>
-
-
-  
 
   
