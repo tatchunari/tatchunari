@@ -1,7 +1,7 @@
 ## About ME 👋
 
-- 🌱 Currently learning: **Node.js, MongoDB**
-- 📚 Want to learn: **PostgreSQL, Python, Java, Docker and art**🎨
+- 🌱 Currently wanting to: ** Start Full-Stack Project **
+- 📚 Want to learn: ** Docker and art**🎨
 - 🌈 Hobbies: Drawing, Daydreaming, Videogames...
 
 ## Language & Tools Learnt ⚙️
