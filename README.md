@@ -1,7 +1,7 @@
 ## About ME 👋
 
-- 🌱 Currently doing: **Full-Stack Project**
-- 📚 Want to learn: **Docker and Angular**
+- 🌱 Currently learning: **Docker & Java**
+- 📚 Want to learn: **Angular**
 - 🌈 Hobbies: Drawing, Daydreaming, Videogames...
 
 ## Language & Tools Learnt ⚙️
