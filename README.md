@@ -1,7 +1,7 @@
 ## About ME 👋
 
-- 🌱 Currently learning: **Angular**
-- 📚 Want to learn: **Java**
+- 🌱 Currently learning: **Java + Spring Boot**
+- 📚 Want to learn: **Angular**
 - 🌈 Hobbies: Drawing, Daydreaming, Videogames...
 
 ## Language & Tools Learnt ⚙️
